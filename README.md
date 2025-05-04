@@ -16,7 +16,7 @@ A powerful Chrome extension that provides AI-powered chat assistance for web bro
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/webchat-ai.git
+   git clone https://github.com/anandsinh01/AI-Powered-Web-to-Chat-Chrom-Extension.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
