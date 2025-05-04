@@ -59,10 +59,4 @@ To modify or enhance the extension:
 2. Reload the extension in `chrome://extensions/`
 3. Test the changes
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
