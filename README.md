@@ -4,13 +4,13 @@ A powerful Chrome extension that provides AI-powered chat assistance for web bro
 
 ## Features
 
-- 🎯 Sidebar Integration: Opens as a convenient sidebar instead of a popup
-- 💬 Persistent Chat: Maintains chat history while browsing
-- 📎 File Attachments: Support for file uploads and context sharing
-- 📤 Export Options: Export chat history in multiple formats (JSON, Text, HTML)
-- 🎨 Modern UI: Clean and responsive interface
-- 🔄 Real-time Assistance: Get instant AI responses about webpage content
-- 🎤 Voice Commands: Ask questions using your microphone (Chrome only)
+- Sidebar Integration: Opens as a convenient sidebar instead of a popup
+-  Persistent Chat: Maintains chat history while browsing
+-  File Attachments: Support for file uploads and context sharing
+-  Export Options: Export chat history in multiple formats (JSON, Text, HTML)
+-  Modern UI: Clean and responsive interface
+-  Real-time Assistance: Get instant AI responses about webpage content
+-  Voice Commands: Ask questions using your microphone (Chrome only)
 
 ## Installation
 
@@ -50,18 +50,6 @@ Note: The voice command feature requires:
 - Microphone access permission
 - Internet connection for speech recognition
 
-## Project Structure
-
-```
-webchat-ai/
-├── manifest.json        # Extension manifest
-├── background.js       # Background script
-├── sidepanel.html     # Sidebar UI
-├── sidepanel.js       # Sidebar functionality
-├── libs/
-│   └── document-generator.js  # Export functionality
-└── README.md          # Documentation
-```
 
 ## Development
 
