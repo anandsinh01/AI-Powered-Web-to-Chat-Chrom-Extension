@@ -1,4 +1,4 @@
-# WebChat AI Chrome Extension
+# AI-Powered-Web-to-Chat-Chrom-Extension
 
 A powerful Chrome extension that provides AI-powered chat assistance for web browsing. The extension opens as a sidebar, allowing users to interact with an AI assistant while browsing web pages.
 
